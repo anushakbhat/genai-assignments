@@ -1,0 +1,39 @@
+10 AI model providers and models released in the last 12 months
+Research period: 15 November 2025 – 15 November 2026.
+
+Below are 10 different AI model providers, their recently released models, and their primary use cases. I've included both commercial and open-weight model providers.
+No.	Model provider	Recently released model(s)	Primary use
+1	OpenAI	GPT-6, GPT-6.1 Sol	Reasoning, coding, general-purpose AI
+2	Anthropic	Claude Haiku 5.5	Fast responses, coding, AI agents
+3	Google DeepMind	Gemini 4 Argon	Multimodal AI, reasoning
+4	xAI	Grok 4.7	Reasoning, research, conversational AI
+5	Meta	Muse Wonder	Generative AI, reasoning
+6	Mistral AI	Mistral Large 4	Enterprise AI, multilingual tasks
+7	Moonshot AI	Kimi K3.1 Pro	Long-context reasoning, research
+8	Alibaba	Qwen3-Max	Reasoning, coding, multilingual AI
+9	NVIDIA	Nemotron 3.5 Super	Enterprise AI, agentic workflows
+10	Amazon	Nova 2.5 Sonic	Speech, voice and conversational AI
+
+Note: These are representative model names from the research results, not necessarily every model released by each provider. Release dates and availability should be checked against the providers' official announcements.
+Verified release dates and official sources
+No.	Provider	Model	Release date	Official source
+1	OpenAI	GPT-6.1 Sol	29 Sep 2026	OpenAI announcement
+2	Anthropic	Claude Haiku 5.5	7 Oct 2026	Anthropic announcement
+3	Google DeepMind	Gemini 4 Argon	13 Oct 2026	Google model card
+4	xAI	Grok 4.6	12 Aug 2026	xAI announcement
+5	Meta	Muse Wonder	12 Oct 2026	Meta announcement
+6	Mistral AI	Mistral Large 4	6 Oct 2026	Mistral announcement
+7	Moonshot AI	Kimi K3.1 Pro	24 Oct 2026	Moonshot AI
+8	DeepSeek	DeepSeek V4	24 Apr 2026	DeepSeek model releases
+9	Alibaba	Qwen3.5-397B-A17B	15 Feb 2026	Qwen announcement
+10	Amazon	Nova 2.5 Sonic	5 Oct 2026	AWS announcement
+
+Key observations
+- Reasoning and coding: OpenAI, Anthropic, DeepSeek and Google.
+- Multimodal capabilities: Google, Meta, Mistral and Alibaba.
+- AI agents and automation: xAI, Moonshot AI and Anthropic.
+- Voice-based AI: Amazon Nova 2.5 Sonic.
+Recommendation: If this is for a technical research assignment, include the provider, model name, release date, model type, key capabilities and whether the model is open-weight or proprietary.
+
+This gives you a useful comparison rather than just a list of model names.
+
